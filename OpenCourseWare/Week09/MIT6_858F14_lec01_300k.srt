@@ -6978,7 +6978,7 @@ untuk menjelajahi buffer overflow
 ini karena, meskipun
 
 1476
-01:02:28,896 --> 01:02:31,270
+01:02:28,896 --> 01:02:31,270 
 Anda telah mengubah
 banyak hal dalam stack,
 
